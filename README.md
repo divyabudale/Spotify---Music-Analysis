@@ -1,5 +1,5 @@
 # Spotify-Music-Analysis
-Objective : In this project, Spotify top 200 music data used to identify patterns, perform clsutering of similiar songs and classification of the new track into one of the cluster.
+Objective : In this project, Spotify top 200 music data used to identify patterns, perform clustering of similiar songs and classification of the new track into one of the cluster.
 
 Motivation : I was interested to find out which songs reach the Top 200 in Spotify, what made a number one song and what is the lifetime of the number one song over the year.
 
